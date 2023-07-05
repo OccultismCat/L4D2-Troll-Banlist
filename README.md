@@ -4,5 +4,5 @@ A text file that contains a list of trolls that I personally have played with an
 ## Install/Setup.
 **<ins>1st Method.</ins>**
 1. Download [L4D2-Troll-Banlist Repo](https://github.com/OccultismCat/L4D2-Troll-Banlist/archive/refs/heads/main.zip).
-2. Extract the contents of the ZIP file into the specified folder "./steamapps/common/Left 4 Dead 2/left4dead2/ems/admin system/".
+2. Extract the contents of the ZIP file into folder "./steamapps/common/Left 4 Dead 2/left4dead2/ems/admin system/".
 3. Verify that the extracted files are now present.
