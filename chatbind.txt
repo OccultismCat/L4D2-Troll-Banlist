@@ -1,0 +1,1 @@
+bind "-" "say Download Troll Banlist for [Admin System]: Github.com/OccultismCat/L4D2-Troll-Banlist"
