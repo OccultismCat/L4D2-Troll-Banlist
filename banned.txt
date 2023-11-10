@@ -34,9 +34,8 @@ STEAM_1:0:768952269 //verygat                           ![Reason: Missing/Forgot
 STEAM_1:0:714893903 //NightRaven                        ![Reason: Missing/Forgotten]!
 STEAM_1:0:438654052 //IHatePeople                       ![Reason: Missing/Forgotten]!
 STEAM_1:1:220521802 //Batman                            ![Reason: Missing/Forgotten]!
-STEAM_1:1:21112177 //Relentless                         ![Reason: Missing/Forgotten]!
+STEAM_1:1:21112177 //Relentless                         [Reason: Racism]
 STEAM_1:0:452047417 //Disco                             ![Reason: Missing/Forgotten]!
-STEAM_1:1:21112177 //Relentless                         ![Reason: Missing/Forgotten]!
 STEAM_1:0:40688585 //teamkill                           ![Reason: Missing/Forgotten]!
 STEAM_1:0:22805217 //ShogunGrumpyBear                   ![Reason: Missing/Forgotten]!
 STEAM_1:0:581290819 //cockman888                        ![Reason: Missing/Forgotten]!
