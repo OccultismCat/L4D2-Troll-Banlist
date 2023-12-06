@@ -71,3 +71,5 @@ STEAM_1:1:442197395 //HeWasAFairy                       [Reason: Trolling, Teamk
 STEAM_1:1:709892865 //Morgan                            [Reason: Trolling, Teamkilling]
 STEAM_1:1:68919668 //[invisible nickname]               [Reason: Trolling, Racism, Cheating]
 STEAM_1:1:56221708 //Vinny                              [Reason: Trolling, Teamkilling]
+STEAM_1:1:185599916 //Peanut of the MirrorLand          [Reason: Racism]
+STEAM_1:1:163287175 //tankishere27                      [Reason: Racism]
